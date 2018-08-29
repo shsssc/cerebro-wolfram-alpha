@@ -16,4 +16,4 @@ First, use the `plugins` keyword to set up the appid option for wolfram alpha AP
 
 ## License
 
-MIT © [Alexandr Subbotin](http://asubbotin.ru/)
+MIT © 
